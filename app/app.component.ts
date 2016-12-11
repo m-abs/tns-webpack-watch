@@ -5,7 +5,7 @@ import { Component } from "@angular/core";
     templateUrl: "app.component.html",
 })
 export class AppComponent {
-    public counter: number = 16;
+    public counter: number = 17;
 
     public get message(): string {
         if (this.counter > 0) {

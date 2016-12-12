@@ -1,7 +1,7 @@
 import { NgModule, NO_ERRORS_SCHEMA } from "@angular/core";
 import { NativeScriptModule } from "nativescript-angular/platform";
 
-import { AppComponent } from "./app.component";
+import { AppComponent } from "./components/app.component";
 
 @NgModule({
     declarations: [AppComponent],
